@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+env/
+*.log
+database.db
+static/uploads/*
+!static/uploads/.gitkeep
+dataset/Training/
+dataset/Testing/
+.env
+.DS_Store
+*.h5
+!models/.gitkeep
